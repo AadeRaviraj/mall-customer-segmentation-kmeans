@@ -144,11 +144,7 @@ K-Means clustering does not use accuracy, confusion matrix, or classification re
 - Customer Segmentation
 - Cluster Label Assignment
 
----
 
-## Suggested Repo Name
-
-`mall-customer-segmentation-kmeans`
 
 ---
 
